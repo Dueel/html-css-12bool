@@ -1,0 +1,8 @@
+.row:last-child>.col-6{
+  padding: 10px;
+}
+
+.row:last-child .col-6>div{
+  border: 1px solid white;
+  max-height: 100%;
+}
